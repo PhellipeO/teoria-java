@@ -56,6 +56,7 @@ aqui tenho uma certa facilidade
 
 utiliza true or false, e ainda os operadores de comparação ou logicos
 
+```
 int x = 10;
 int y = 12;
 
@@ -64,3 +65,4 @@ if(x >= y){
 } else {
     System.out.println("A sua condição é falsa")
 }
+```

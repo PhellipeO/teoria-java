@@ -23,11 +23,13 @@ tipo nomeDaVariável RECEBE tal valor; o recebe é o =, fator de atribuição
     ex: int provaUm = 10;
 
 // tipos
+```
     String - texto
     int - inteiro
     float - decimais
     char - caracteres
     boolean - V ou F
+```
 
 
 // Java identificadores = nomes das variaveis
